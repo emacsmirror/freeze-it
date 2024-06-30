@@ -1,8 +1,8 @@
 ;;; freeze-it.el --- Minor mode to make your previous writing read-only  -*- lexical-binding: t; -*-
 
-;; Copyright (c) 2020-2021  Paul W. Rankin
+;; Copyright (c) 2020-2024  Paul W. Rankin
 
-;; Author: Paul W. Rankin <pwr@bydasein.com>
+;; Author: Paul W. Rankin <rnkn@rnkn.xyz>
 ;; Keywords: wp, text
 ;; Version: 0.2.2
 ;; Package-Requires: ((emacs "24.4"))
